@@ -36,14 +36,17 @@ Do Check this out
 
 # [Other Tableau Dashboards]
 Here, I am adding the Tableau Public links for my other Tableau Projects.One can click to get to my Tableau Public Profile
+[dataset of netflix](https://github.com/GauravChandraMasiwal/Portfolio-Projects/blob/master/netflix_titles.csv)
+[dataset of sales](https://github.com/GauravChandraMasiwal/Portfolio-Projects/blob/master/Sales%20Data.xls)
+
 
 [Netflix Tableau Dashboard](https://public.tableau.com/app/profile/gaurav.chandra8195/viz/netflixdashboard_16899262255820/Netflix)
-[dataset of netflix](https://github.com/GauravChandraMasiwal/Portfolio-Projects/blob/master/netflix_titles.csv)
+
 ![Netflix](https://github.com/GauravChandraMasiwal/Portfolio-Projects/assets/127219072/9cd70950-b8ab-4cf3-88e4-d17438f42e34)
 
 [Sales Tableau Dashboard](https://public.tableau.com/app/profile/gaurav.chandra8195/viz/salesdashboard_16900314112260/salesdashboard)
 ![sales dashboard](https://github.com/GauravChandraMasiwal/Portfolio-Projects/assets/127219072/534a3e8d-7fd6-4872-ac62-861500e5ce89)
-[dataset of sales](https://github.com/GauravChandraMasiwal/Portfolio-Projects/blob/master/Sales%20Data.xls)
+
 # [Project 2: HR Analytics SQL+PowerBi Project](https://github.com/GauravChandraMasiwal/Portfolio-Projects/tree/master/HR%20analytics%20(sql%2Bpowerbi))
 This is my major PowerBI project ,Here I have built a report of Employees Attrition of a company,
 
